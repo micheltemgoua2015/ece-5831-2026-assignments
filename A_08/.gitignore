@@ -1,0 +1,4 @@
+# Ignore Kaggle dataset zip and extracted folders
+data_from_kaggle.zip
+data_from_kaggle/
+dataset/
