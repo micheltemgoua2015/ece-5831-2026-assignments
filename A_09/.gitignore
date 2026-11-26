@@ -1,0 +1,4 @@
+# Ignore Assignment 09 dataset folders
+dataset/
+dataset_limit/
+*.zip
